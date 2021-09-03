@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Democratic People's Republic of Korea-d14836?style=flat-square&logoColor=white"/>
+
 <!--
 **advanced-rising/advanced-rising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
