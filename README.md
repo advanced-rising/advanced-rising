@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/My nationality is not Democratic People's Republic of Korea-C41E25?style=flat-square&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </br>
 
-<h2>:fire: Learning :fire:<br></br></h2>
+<h2>:fire: Learning Stack :fire:<br></br></h2>
 
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
