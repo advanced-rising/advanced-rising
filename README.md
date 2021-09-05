@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23AA0000&title_bg=%23FF0000&icon=wechat.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
 </br>
 <br>
 <img src="https://img.shields.io/badge/My nationality is not Democratic People's Republic of Korea-C41E25?style=flat-square&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
