@@ -2,11 +2,6 @@
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%23AA0000&title_bg=%23FF0000&icon=wechat.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
 </br>
-<br>
-<img src="https://img.shields.io/badge/My nationality is not Democratic People's Republic of Korea-C41E25?style=flat-square&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</br>
-
-<h2>:fire: Learning Stack :fire:<br></br></h2>
 
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
