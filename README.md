@@ -6,7 +6,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advanced-rising&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src = "https://user-images.githubusercontent.com/34502254/159172259-d5a91436-1daf-4f1b-bc30-8409d285c2e9.svg" width="30%" height="30%">
 
 
 
