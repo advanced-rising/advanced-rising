@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%23AA0000&title_bg=%23FF0000&icon=wechat.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%23AA0000&title_bg=%23FF0000&icon=wechat.svg&icon_color=%#7BCDA&title=Hits&edge_flat=false"/></a>
 </br>
 
 
