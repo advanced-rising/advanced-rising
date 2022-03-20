@@ -7,6 +7,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advanced-rising&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![html5](https://user-images.githubusercontent.com/34502254/159172128-95ae93b3-1974-48c7-9fc0-45f8af0dff00.svg)![css3](https://user-images.githubusercontent.com/34502254/159172138-445a0f06-5964-4965-8221-4a145054fdcb.svg)![javascript](https://user-images.githubusercontent.com/34502254/159172145-dfc26040-4004-4672-86f6-7e1f539b583e.svg)
+
+
+
+
 
 
 <!--
