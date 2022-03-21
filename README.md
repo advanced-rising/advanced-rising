@@ -17,20 +17,23 @@
 <img src="https://img.shields.io/badge/Sass-57BCDA?style=for-the-badge&logo=Sass&logoColor=20232A">
 <img src="https://img.shields.io/badge/PostCSS-57BCDA?style=for-the-badge&logo=PostCSS&logoColor=20232A">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-57BCDA?style=for-the-badge&logo=Tailwind%20CSS&logoColor=20232A">
+</br>
 
 <img src="https://img.shields.io/badge/JavaScript-57BCDA?style=for-the-badge&logo=JavaScript&logoColor=20232A">
 <img src="https://img.shields.io/badge/TypeScript-57BCDA?style=for-the-badge&logo=TypeScript&logoColor=20232A">
+</br>
 
 <img src="https://img.shields.io/badge/React-57BCDA?style=for-the-badge&logo=React&logoColor=20232A">
 <img src="https://img.shields.io/badge/styled-57BCDA?style=for-the-badge&logo=styled-components&logoColor=20232A">
 <img src="https://img.shields.io/badge/Redux-57BCDA?style=for-the-badge&logo=Redux&logoColor=20232A">
 <img src="https://img.shields.io/badge/React%20Query-57BCDA?style=for-the-badge&logo=React%20Query&logoColor=20232A">
 <img src="https://img.shields.io/badge/Next.js-57BCDA?style=for-the-badge&logo=Next.js&logoColor=20232A">
+</br>
 
 <img src="https://img.shields.io/badge/Firebase-57BCDA?style=for-the-badge&logo=Firebase&logoColor=20232A">
-
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-57BCDA?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=20232A">
 <img src="https://img.shields.io/badge/Figma-57BCDA?style=for-the-badge&logo=Figma&logoColor=20232A">
+</br>
 
 <img src="https://img.shields.io/badge/Firebase-57BCDA?style=for-the-badge&logo=Firebase&logoColor=20232A">
 <img src="https://img.shields.io/badge/Firebase-57BCDA?style=for-the-badge&logo=Firebase&logoColor=20232A">
