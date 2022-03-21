@@ -2,25 +2,22 @@
 
 ![game-off-gif](https://user-images.githubusercontent.com/34502254/159172543-1d5c1b25-36be-4eb5-97be-905ebcb4adad.gif)
 
-
 <div align="center">
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advanced-rising&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%2357BCDA&title_bg=%2320232A&icon=wechat.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
 -->
 <div align="start">
-<p>프론트엔드 개발자를 꿈꾸고 있는 취업준비생입니다.<p></br>
-많은 실력은 없지만, 꾸준한 공부를 통해 경럭있는 분들과 의사소통에 문제 없는 인재가 되기 위해 노력하고 있습니다.</br>
-
-국비과정을 통하여, 사용자 요구분석과 UI/UX 을 배웠으며,</br>
- HTML CSS JS 을 통하여 코드 구현으로 웹 접근성을 고려하며 사이트를 구현하였습니다.</br>
-
-모든 기기에서도 사용을 할 수 있도록 반응형 웹 구축을 하였으며, 외부 데이터를 불러와 API 처리 방법을 익혔으며,</br>
-React를 활용한 SPA 구현을 할 수 있으며, Redux를 활용한 상태관리를 할 수 있습니다.
+<p>프론트엔드 개발자를 꿈꾸고 있는 취업준비생입니다.</p></br>
+<p>많은 실력은 없지만, 꾸준한 공부를 통해 경럭있는 분들과 의사소통에 문제 없는 인재가 되기 위해 노력하고 있습니다.</p></br>
+<p>국비과정을 통하여, 사용자 요구분석과 UI/UX 을 배웠으며,</p></br>
+<p>HTML CSS JS 을 통하여 코드 구현으로 웹 접근성을 고려하며 웹표준 사이트를 구현하였습니다.</p></br>
+<p>모든 기기에서도 사용을 할 수 있도록 반응형 웹 구축 경험이 있습니다.</p></br>
+<p>외부 데이터를 불러와 API 처리 방법을 익혔으며,</p></br>
+<p>React를 활용한 SPA 구현을 할 수 있으며, Redux를 활용한 상태관리를 할 수 있습니다.</p></br>
+<p>React의 SSR를 더 쉽게 구현할 수 있고, 검색엔진 SEO의 최적화를 위해 NextJS 또한 익혀 나아가고 있습니다.</p></br>
 </div>
   
 </br>
@@ -50,7 +47,6 @@ React를 활용한 SPA 구현을 할 수 있으며, Redux를 활용한 상태관
 </br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=advanced-rising&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!--
 **advanced-rising/advanced-rising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
