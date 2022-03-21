@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/badge/HTML5-57BCDA?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-57BCDA?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/PostCSS-57BCDA?style=for-the-badge&logo=PostCSS&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind CSS
--57BCDA?style=for-the-badge&logo=Tailwind CSS
+<img src="https://img.shields.io/badge/Tailwind
+-57BCDA?style=for-the-badge&logo=Tailwind
 &logoColor=white">
 
 </br>
