@@ -12,20 +12,27 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%2357BCDA&title_bg=%2320232A&icon=wechat.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
 </br>
-<img src="https://img.shields.io/badge/React-57BCDA?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-57BCDA?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-57BCDA?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-57BCDA?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/PostCSS-57BCDA?style=for-the-badge&logo=PostCSS&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-57BCDA?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-3776AB?style=for-the-badge&logo=Sass&logoColor=white">
-<img src="https://img.shields.io/badge/styled-components-3776AB?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-3776AB?style=for-the-badge&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-57BCDA?style=for-the-badge&logo=HTML5&logoColor=20232A">
+<img src="https://img.shields.io/badge/CSS3-57BCDA?style=for-the-badge&logo=CSS3&logoColor=20232A">
+<img src="https://img.shields.io/badge/JavaScript-57BCDA?style=for-the-badge&logo=JavaScript&logoColor=20232A">
+<img src="https://img.shields.io/badge/TypeScript-57BCDA?style=for-the-badge&logo=TypeScript&logoColor=20232A">
+<img src="https://img.shields.io/badge/React-57BCDA?style=for-the-badge&logo=React&logoColor=20232A">
+<img src="https://img.shields.io/badge/Redux-57BCDA?style=for-the-badge&logo=Redux&logoColor=20232A">
+<img src="https://img.shields.io/badge/React%20Query-57BCDA?style=for-the-badge&logo=React%20Query&logoColor=20232A">
+<img src="https://img.shields.io/badge/Next.js-57BCDA?style=for-the-badge&logo=Next.js&logoColor=20232A">
+<img src="https://img.shields.io/badge/Sass-57BCDA?style=for-the-badge&logo=Sass&logoColor=20232A">
+<img src="https://img.shields.io/badge/PostCSS-57BCDA?style=for-the-badge&logo=PostCSS&logoColor=20232A">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-57BCDA?style=for-the-badge&logo=Tailwind%20CSS&logoColor=20232A">
 
+<img src="https://img.shields.io/badge/styled-57BCDA?style=for-the-badge&logo=styled&logoColor=20232A">
+
+
+
+<img src="https://img.shields.io/badge/Firebase-57BCDA?style=for-the-badge&logo=Firebase&logoColor=20232A">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-57BCDA?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=20232A">
+<img src="https://img.shields.io/badge/Figma-57BCDA?style=for-the-badge&logo=Figma&logoColor=20232A">
+<img src="https://img.shields.io/badge/Firebase-57BCDA?style=for-the-badge&logo=Firebase&logoColor=20232A">
+<img src="https://img.shields.io/badge/Firebase-57BCDA?style=for-the-badge&logo=Firebase&logoColor=20232A">
 </br>
 </br>
 
