@@ -12,7 +12,8 @@
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%2357BCDA&title_bg=%2320232A&icon=wechat.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
 -->
-프론트엔드 개발자를 꿈꾸고 있는 취업준비생입니다.</br>
+<div align="start">
+<p>프론트엔드 개발자를 꿈꾸고 있는 취업준비생입니다.<p></br>
 많은 실력은 없지만, 꾸준한 공부를 통해 경럭있는 분들과 의사소통에 문제 없는 인재가 되기 위해 노력하고 있습니다.</br>
 
 국비과정을 통하여, 사용자 요구분석과 UI/UX 을 배웠으며,</br>
@@ -20,7 +21,7 @@
 
 모든 기기에서도 사용을 할 수 있도록 반응형 웹 구축을 하였으며, 외부 데이터를 불러와 API 처리 방법을 익혔으며,</br>
 React를 활용한 SPA 구현을 할 수 있으며, Redux를 활용한 상태관리를 할 수 있습니다.
-
+</div>
   
 </br>
 <img src="https://img.shields.io/badge/HTML5-57BCDA?style=for-the-badge&logo=HTML5&logoColor=20232A">
