@@ -18,6 +18,13 @@
 <img src="https://img.shields.io/badge/CSS3-57BCDA?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/PostCSS-57BCDA?style=for-the-badge&logo=PostCSS&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-57BCDA?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-3776AB?style=for-the-badge&logo=Sass&logoColor=white">
+<img src="https://img.shields.io/badge/styled-components-3776AB?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-3776AB?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 </br>
 </br>
