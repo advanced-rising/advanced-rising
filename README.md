@@ -9,6 +9,7 @@
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%2357BCDA&title_bg=%2320232A&icon=wechat.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
 -->
+<!--
 <div align="start">
   프론트엔드 개발자를 꿈꾸고 있는 취업준비생입니다.</br>
 많은 실력은 없지만, 꾸준한 공부를 통해 경럭있는 분들과 의사소통에 문제 없는 인재가 되기 위해 노력하고 있습니다.</br>
@@ -19,7 +20,7 @@ HTML CSS JS 을 통하여 코드 구현으로 웹 접근성을 고려하며 웹�
 React를 활용한 SPA 구현을 할 수 있으며, Redux를 활용한 상태관리를 할 수 있습니다.</br>
 React의 SSR를 더 쉽게 구현할 수 있고, 검색엔진 SEO의 최적화를 위해 NextJS 또한 익혀 나아가고 있습니다.</br>
 </div>
-  
+ -->
 </br>
 <img src="https://img.shields.io/badge/HTML5-57BCDA?style=for-the-badge&logo=HTML5&logoColor=20232A">
 <img src="https://img.shields.io/badge/CSS3-57BCDA?style=for-the-badge&logo=CSS3&logoColor=20232A">
