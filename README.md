@@ -9,8 +9,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advanced-rising&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadvanced-rising&count_bg=%2357BCDA&title_bg=%2320232A&icon=wechat.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
+-->
+  
 </br>
 <img src="https://img.shields.io/badge/HTML5-57BCDA?style=for-the-badge&logo=HTML5&logoColor=20232A">
 <img src="https://img.shields.io/badge/CSS3-57BCDA?style=for-the-badge&logo=CSS3&logoColor=20232A">
@@ -35,9 +37,6 @@
 <img src="https://img.shields.io/badge/Figma-57BCDA?style=for-the-badge&logo=Figma&logoColor=20232A">
 </br>
 
-<img src="https://img.shields.io/badge/Firebase-57BCDA?style=for-the-badge&logo=Firebase&logoColor=20232A">
-<img src="https://img.shields.io/badge/Firebase-57BCDA?style=for-the-badge&logo=Firebase&logoColor=20232A">
-</br>
 </br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=advanced-rising&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
