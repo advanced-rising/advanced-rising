@@ -48,9 +48,9 @@ React의 SSR를 더 쉽게 구현할 수 있고, 검색엔진 SEO의 최적화�
 </br>
 
 </br>
-
+<!--
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=advanced-rising&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 <!--
 **advanced-rising/advanced-rising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
