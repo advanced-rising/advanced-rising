@@ -4,7 +4,9 @@
 
 <div align="center">
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=advanced-rising&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 ![LeetCode Stats](https://leetcode.card.workers.dev/advanced-rising?theme=nord&font=baloo&extension=null)
