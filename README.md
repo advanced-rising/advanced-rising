@@ -27,6 +27,8 @@ React를 활용한 SPA 구현을 할 수 있으며, Redux를 활용한 상태관
 React의 SSR를 더 쉽게 구현할 수 있고, 검색엔진 SEO의 최적화를 위해 NextJS 또한 익혀 나아가고 있습니다.</br>
 </div>
  -->
+
+ <!--
 </br>
 <img src="https://img.shields.io/badge/HTML5-57BCDA?style=for-the-badge&logo=HTML5&logoColor=20232A">
 <img src="https://img.shields.io/badge/CSS3-57BCDA?style=for-the-badge&logo=CSS3&logoColor=20232A">
@@ -52,6 +54,8 @@ React의 SSR를 더 쉽게 구현할 수 있고, 검색엔진 SEO의 최적화�
 </br>
 
 </br>
+
+-->
 <!--
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=advanced-rising&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
