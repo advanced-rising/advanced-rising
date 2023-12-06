@@ -1,4 +1,6 @@
+<!--
 ### I'm risingcore
+-->
 
 ![game-off-gif](https://user-images.githubusercontent.com/34502254/159172543-1d5c1b25-36be-4eb5-97be-905ebcb4adad.gif)
 
